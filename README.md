@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - [Live site URL](https://bookmark-landing-page-jade.vercel.app/)
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-bookmark-landing-page-built-using-html-css-and-javascript-sxztO_2Jo)
 
 ## My process
 
