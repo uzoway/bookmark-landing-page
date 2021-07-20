@@ -806,12 +806,12 @@ footer .attribution a{
     .contact form .error {
         bottom: 65%;
         transform: translateY(-50%);
-        left: 85%;
+        left: 83%;
     }
 
     .contact form span {
         bottom: 3.5rem;
-        left: 8%;
+        left: 2%;
     }
 
     footer {
